@@ -54,9 +54,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alirezaFAkhar/count.svg?"  />
-</div>
+
 
 ###
 
