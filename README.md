@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🌱 I’m currently learning Sass, Html5, Css3, Javascript , React.js<br><br>👨‍💻 All of my projects are available at GITHUB<br><br>💬 Ask me about Sass, Html5, Css3, Javascript , React.js</h5>
+<h5 align="left">🌱 I’m currently learning Sass, Html5, Css3, Javascript , React.js , TypeScript<br><br>👨‍💻 All of my projects are available at GITHUB<br><br>💬 Ask me about Sass, Html5, Css3, Javascript , React.js</h5>
 
 ###
 
